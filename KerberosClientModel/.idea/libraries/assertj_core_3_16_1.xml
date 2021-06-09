@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="assertj-core-3.16.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/assertj-core-3.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/fastjson-1.2.72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../CS-jars/json-lib-2.4-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

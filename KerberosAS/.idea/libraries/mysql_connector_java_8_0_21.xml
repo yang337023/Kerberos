@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../jar包/mysql-connector-java-8.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar包/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar包/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar包/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar包/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar包/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../jar包/commons-lang-2.6.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
